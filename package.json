@@ -10,7 +10,7 @@
     "start": "vitepress dev"
   },
   "dependencies": {
-    "@stackblitz/sdk": "^1.9.0"
+    "@stackblitz/sdk": "^1.11.0"
   },
   "devDependencies": {
     "@types/node": "^20.11.30",
