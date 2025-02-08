@@ -13,7 +13,7 @@
     "@stackblitz/sdk": "^1.9.0"
   },
   "devDependencies": {
-    "@types/node": "^20.11.30",
+    "@types/node": "^20.17.14",
     "@vue/tsconfig": "^0.5.1",
     "dotenv": "^16.4.5",
     "markdown-it-footnote": "^3.0.3",
