@@ -18,8 +18,8 @@
     "dotenv": "^16.4.5",
     "markdown-it-footnote": "^3.0.3",
     "prettier": "^3.2.5",
-    "sass": "^1.72.0",
-    "vitepress": "~1.0.2"
+    "sass": "^1.79.0",
+    "vitepress": "~1.6.0"
   },
   "prettier": {
     "printWidth": 100,
